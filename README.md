@@ -1,6 +1,5 @@
 # arxiv-api
 
-# usage
 download the program using the terminal
 ```
 git clone https://github.com/juliantcchu/arxiv-api
